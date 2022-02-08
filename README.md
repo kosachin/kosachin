@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h3 align="center">
+ Profiencies 
+</h3>  
+<p align="center">
+ <img  src="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg">
+</p> 
+
 ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosachin&show_icons=true&theme=highcontrast)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kosachin&theme=highcontrast&fire=f7a305&ring=b0d90b&currStreakLabel=b0d90b)
