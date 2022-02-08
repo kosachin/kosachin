@@ -27,17 +27,29 @@ Here are some ideas to get you started:
 <!-- 📫 You can reach me at [chat](mailto:kosachin313@gmail.com)! -->
 
 
-<h3>
+<h3 align="center">
  Profiencies 
 </h3>  
+
+<p align="center">
+    <a href="https://github.com/kosachin/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sachin koli's streak" src="https://github-readme-streak-stats.herokuapp.com/? user=kosachin&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/kosachin/github-readme-stats"><img alt="sachin koli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kosachin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosachin&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+</p>
 
 <p >
  <img  src="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg">
 </p> 
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosachin&show_icons=true&theme=highcontrast)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kosachin&theme=highcontrast&fire=f7a305&ring=b0d90b&currStreakLabel=b0d90b)
 
 <p align="center">
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
