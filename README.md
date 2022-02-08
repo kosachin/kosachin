@@ -2,7 +2,9 @@
 <h2 align="center">Glad To See You Here!** ✨</h2>
 <h3 align="center">I'm a full-stack web developer currently looking for new oportunities</h3>
 
-Here are some ideas to get you started:
+<p align= "center">
+ Here are some ideas to get you started:
+</p>
 <p align= "center">
  <img src="https://img.shields.io/badge/JS-Javascript-red"/>
  <img src="https://img.shields.io/badge/React-React-blue"/>
