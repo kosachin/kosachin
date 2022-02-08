@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi, I am Sachin Koli 👋 
 
-<!--
-**kosachin/kosachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Glad To See You Here!** ✨ 
+
+
+- Hi, I am a Full Stack Web Developer skilled in React, Javascript, CSS, HTML, Express js, Node.js, MongoDB, and Data Structures and Algorithms.
 
 Here are some ideas to get you started:
 
