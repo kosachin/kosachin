@@ -45,6 +45,10 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosachin&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
 </p>
+<br/>
+<br/>
+
+<a href="https://github.com/AleemAlam/github-readme-activity-graph"><img alt="Aleem Alam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AleemAlam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
