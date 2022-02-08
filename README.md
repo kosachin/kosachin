@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3 align="center">
+<h3>
  Profiencies 
 </h3>  
 
