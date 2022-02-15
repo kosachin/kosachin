@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Sachin Koli 👋 </h1>
 <h2 align="center">Glad To See You Here!** ✨</h2>
-<h3 align="center">I'm a full-stack web developer currently looking for new oportunities</h3>
+<h3 align="center">I'm a life long learner and enjoy learning new stiff! currently looking for new oportunities</h3>
 
 <p align= "center">
  Here are some ideas to get you started:
