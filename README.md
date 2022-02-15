@@ -23,6 +23,19 @@
 
 🥅 **2021 Goals :** Learning new things 
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/kosachindev//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Esko_313"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+ 
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kosachin">
+</a>
+<a href="https://github.com/kosachin?tab=followers"><img src="https://img.shields.io/github/followers/MrNavneetChauhan?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h3 align="center">
  Profiencies 
