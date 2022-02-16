@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Sachin Koli 👋 </h1>
+<h1 align="center">Hi, I am Sachin Koli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 <h2 align="center">Glad To See You Here!** ✨</h2>
 <h3 align="center">I'm a life long learner and enjoy learning new stuff and currently looking for new oportunities</h3>
 
@@ -23,7 +23,7 @@
 
 🥅 **2021 Goals :** Learning new things 
 
-## Connect with me:
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> :
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/kosachindev//" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
