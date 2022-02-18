@@ -23,7 +23,7 @@
 
 🥅 **2021 Goals :** Learning new things 
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> :
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> :
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/kosachindev//" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
