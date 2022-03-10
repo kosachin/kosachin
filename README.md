@@ -21,7 +21,7 @@
 
 💬 **Ask me about :** JavaScript, React 
 
-🥅 **2021 Goals :** Learning new things 
+🥅 **2022 Goals :** Learn new things and begin working in tech
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> :
 <p align="left">
